@@ -1,0 +1,17 @@
+*{
+    background-color: burlywood;
+    font-family: 'Times New Roman', Times, serif
+}
+img{
+    height: auto;
+    width: 350;
+    image-rendering: optimizeSpeed
+}
+.recipe{
+    align-self: center;
+    font-family: cursive;
+}
+
+h4{
+    border-block-end-style: dotted;
+}
